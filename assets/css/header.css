@@ -1,0 +1,19 @@
+header {
+    background: var(--background-main);
+}
+
+.header__contenido {
+    padding: 1.5rem;
+    display: flex;
+    align-items: baseline;
+    justify-content: start;
+}
+
+.titulo__header {
+    font-family: var(--Poppins);
+    color: var(--letras-azul-fuerte);
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+

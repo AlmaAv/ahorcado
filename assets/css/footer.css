@@ -1,0 +1,14 @@
+footer {
+    background: var(--background-main);
+    font-family: var(--Poppins);
+    height: 5vh;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--letras-azul-fuerte);
+}
+
+.desarrollador {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

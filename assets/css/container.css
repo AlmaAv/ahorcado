@@ -1,0 +1,34 @@
+.container {
+    width: 100%;
+    height: 80vh;
+    background: var(--background-main);
+}
+
+.botones {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    padding-top: 40vh;
+}
+
+#btn {
+    width: 15rem;
+    height: 5rem;
+    border-radius: 1.8rem;
+    font-family: var(--Poppins);
+    border: none;
+}
+
+.btn__iniciar {
+    background: var(--letras-azul-fuerte);
+    color: var(--letras-blanco);
+    font-size: 1rem;
+}
+
+.btn__agregar {
+    background: var(--letras-blanco);
+    color: var(--letras-azul-fuerte);
+    font-size: 1rem;
+    font-weight: 600;
+}
